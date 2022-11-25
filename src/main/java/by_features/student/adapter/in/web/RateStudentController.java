@@ -1,6 +1,6 @@
 package by_features.student.adapter.in.web;
 
-import by_features.student.application.port.in.rate.RateStudentUseCase;
+import by_features.student.domain.port.in.rate.RateStudentUseCase;
 import org.springframework.stereotype.Controller;
 
 @Controller
